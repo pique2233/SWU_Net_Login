@@ -28,7 +28,7 @@
 ## 📥 安装方式 \| Installation
 
 ``` bash
-git clone https://github.com/yourname/SWU_Net_Login.git
+git clone https://github.com/pique2233/SWU_Net_Login.git
 cd SWU_Net_Login
 pip install -r requirements.txt
 ```
@@ -68,3 +68,4 @@ python -m ruijie_login.main
 ## 📜 免责声明 \| Disclaimer
 
 仅用于学习交流，请遵守学校网络规定。
+
