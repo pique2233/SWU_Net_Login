@@ -30,16 +30,14 @@
 ``` bash
 git clone https://github.com/pique2233/SWU_Net_Login.git
 cd SWU_Net_Login
+cd ruijie_login
+pip install rich requests python-dotenv
 pip install -r requirements.txt
 ```
 
 ------------------------------------------------------------------------
 
 ## 🔧 配置说明 \| Configuration
-
-``` bash
-cp .env.example .env
-```
 
 填写账号密码：
 
